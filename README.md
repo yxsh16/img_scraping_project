@@ -13,9 +13,6 @@ Here's a quick walkthrough of my project:
     Remember to replace the password of MongoDb server or else you'll end up pushing the data on my server and will not be able to access it.
 * Use Flask to host the application.
 
-Althogh i have tried to follow as many industry standards as possible and tried to write a clean code,
-feel free to correct me in case of any error or an optimized way of writing this code. Your contribution is highly appreciated.
-Also the project will be deployed on Azure soon.
 
 
     
